@@ -18,8 +18,8 @@ var config = {
                 options: {
                     loaders: {
                         css: ExtractTextPlugin.extract({
-                          use: 'css-loader',
-                          fallback: 'vue-style-loader'
+                            use: 'css-loader',
+                            fallback: 'vue-style-loader'
                         })
                     }
                 }
@@ -35,6 +35,10 @@ var config = {
                     use: 'css-loader',
                     fallback: 'style-loader'
                 })
+            },
+            {
+                test: /\.(gif|jpg|png|woff|svg|eot|ttf)\??.*$/,
+                loader: 'url-loader?limit=1024'
             }
         ]
     },
