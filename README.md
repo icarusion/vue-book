@@ -11,3 +11,4 @@
 - [P271] 代码修改为 `return year + '' + month + '' + day;` https://github.com/icarusion/vue-book/issues/17
 - [P204] `htmlwebpackPlugin` 更改为 `htmlWebpackPlugin` https://github.com/icarusion/vue-book/issues/20 
 - [P87] 错别字 https://github.com/icarusion/vue-book/issues/23
+- [P135] VNode 对象参数 context 说明错别字 https://github.com/icarusion/vue-book/issues/24
