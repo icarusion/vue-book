@@ -5,7 +5,7 @@
 - **京东** https://item.jd.com/12215519.html
 - **天猫** https://detail.tmall.com/item.htm?id=559480603657
 - **当当** http://product.dangdang.com/25180286.html
-- **系列视频教程** https://segmentfault.com/ls/1650000011074057
+- **系列视频教程** https://segmentfault.com/ls/1650000016424063
 
 ## 已知勘误
 > 感谢大家的反馈，目前已知的勘误如下，已修改，再次印刷时将更正。
